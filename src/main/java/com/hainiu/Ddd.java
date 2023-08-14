@@ -6,5 +6,7 @@ public class Ddd {
         demo1.say("maven");
         Demo2 demo2 = new Demo2();
         demo2.syHello();
+        System.out.println(1111);
+        System.out.println(1111);
     }
 }
